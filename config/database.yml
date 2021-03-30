@@ -16,6 +16,6 @@ test:
 
 production:
   <<: *default
-  database: ieat_rails_production
-  username: ieat_rails
-  password: <%= ENV['IEAT_RAILS_DATABASE_PASSWORD'] %>
+  database: d90s41ribunqhn
+  username: fchghoatmeupfn
+  password: 2bef7d2357c17b88d7c33a29fae3169958f64ad7501ce4f4e7801cb63c1c0eda
